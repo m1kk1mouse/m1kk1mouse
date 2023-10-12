@@ -36,9 +36,9 @@ An aspiring cybersecurity specialist, in my free time I write small projects for
 
 ### :fire: My Stats :
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=m1kk1mouse&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=m1kk1mouse&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1kk1mouse&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1kk1mouse&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
