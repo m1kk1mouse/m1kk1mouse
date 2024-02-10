@@ -19,7 +19,7 @@
 </div>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
-An aspiring cybersecurity specialist, in my free time I write small projects for myself in C++ (Qt). A supporter of free software and a fan of Linux systems.
+Hello, I'm a beginner cybersecurity specialist, in my free time I write small projects for myself in C++ (Qt) and Python.. A supporter of free software and a fan of Linux systems.
 
 <h2> :hammer_and_wrench: &nbsp;Some Tools I Have Used and Learned</h2>
 
