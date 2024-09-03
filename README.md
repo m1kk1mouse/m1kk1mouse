@@ -35,6 +35,7 @@ Hello, I am an Application Security Engineer, learning Java, automating tasks in
 ![SonarQube](https://img.shields.io/badge/Sonarqube-654FF0?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![VMWare](https://img.shields.io/badge/VMware-0078D4?style=for-the-badge&logo=VMware&logoColor=white)
 ![VBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### :fire: My Stats :
 
