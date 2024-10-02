@@ -15,7 +15,6 @@
   </a>
     <a href="https://discordapp.com/users/n0r1x_">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-      ![Discord]()
   </a>
 </div>
 
