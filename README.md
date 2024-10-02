@@ -13,8 +13,9 @@
   <a href="mailto:1woracc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
-    <a href="https://t.me/userb1t">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <a href="https://discordapp.com/users/n0r1x_">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+      ![Discord]()
   </a>
 </div>
 
