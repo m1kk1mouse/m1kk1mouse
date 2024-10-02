@@ -19,7 +19,7 @@
 </div>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
-Hello, I am an Application Security Engineer, learning Java, automating tasks in Python. I am a supporter of free software and a fan of Linux systems.
+Hi! I am a beginner Java backend developer. My goal is to constantly develop in the field of programming and contribute to interesting projects. I like to study new technologies, automate processes, participate in conferences. I am a fan of Linux, I support free software.
 
 <h2> :hammer_and_wrench: &nbsp;Some Tools I Have Used and Learned</h2>
 
