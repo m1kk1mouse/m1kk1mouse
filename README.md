@@ -19,7 +19,7 @@
 </div>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
-Hi! I am a beginner Java backend developer. My goal is to constantly develop in the field of programming and contribute to interesting projects. I like to study new technologies, automate processes, participate in conferences. I am a fan of Linux, I support free software.
+Hi! I am a Java backend developer. My goal is to constantly develop in the field of programming and contribute to interesting projects. I like to study new technologies, automate processes, participate in conferences. I am a fan of Linux, I support free software.
 
 <h2> 💻 &nbsp;Tech Stack:</h2>
 <!-- language -->
