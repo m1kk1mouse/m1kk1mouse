@@ -19,7 +19,23 @@
 </div>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
-Hi! I am a Java backend developer. My goal is to constantly develop in the field of programming and contribute to interesting projects. I like to study new technologies, automate processes, participate in conferences. I am a fan of Linux, I support free software.
+
+**Java Backend Developer** with experience in designing and developing high-load applications based on microservice architecture.  
+
+### 🛠️ Key Technologies  
+- **Backend**: Spring (Boot, Cloud, Security), Hibernate.  
+- **Databases**: PostgreSQL, MySQL.  
+- **Data Tools**: Apache Kafka, Redis.  
+- **Infrastructure**: Docker, Kubernetes (basic experience), Amazon S3.  
+
+### 🔍 Core Expertise  
+- **Full development cycle**: from design to deployment and optimization.  
+- **Security**: Implementing AppSec practices, cross-code reviews, vulnerability remediation.  
+- **Team Collaboration**: Adapting to team dynamics, transparent communication, focus on shared goals.  
+
+### 📈 Professional Growth  
+- Continuously exploring new tools and architectural approaches to stay aligned with industry trends.  
+- Delivering internal tech talks and presentations for colleagues (topics: emerging technologies, best practices, optimization cases).  
 
 <h2> 💻 &nbsp;Tech Stack:</h2>
 <!-- language -->
@@ -30,7 +46,7 @@ Hi! I am a Java backend developer. My goal is to constantly develop in the field
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
