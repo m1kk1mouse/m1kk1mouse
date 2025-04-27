@@ -20,7 +20,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
 
-**Java Backend Developer** with experience in designing and developing high-load applications based on microservice architecture.  
+**Java Backend Developer** with experience in designing and developing high-load applications based on microservice architecture (Spring, Kafka, Redis, Postgres), as well as experience in implementing SAST/DAST, SCA, Secret Scanning in CI/CD.  
 
 ### 🛠️ Key Technologies  
 - **Backend**: Spring (Boot, Cloud, Security), Hibernate.  
